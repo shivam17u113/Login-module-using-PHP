@@ -1,0 +1,41 @@
+
+.table{
+  color: black;
+  background: url("images/p6.jpg");
+
+}
+.table tr th{
+  
+  border:#eee 1px solid;
+  
+  position:relative;
+  #font-family:"Times New Roman", Times, serif;
+  font-size:12px;
+  text-transform:uppercase;
+  color:black;
+  }
+  table tr td{
+  
+  border:#eee 1px solid;
+  color:#000;
+  position:relative;
+  #font-family:"Times New Roman", Times, serif;
+  font-size:12px;
+  
+  text-transform:uppercase;
+  }
+  
+#wb_Form1
+{
+   background-color: #00BFFF;
+   border: 0px #000 solid;
+  
+}
+#photo
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #00BFFF;
+   color: #fff;
+   font-family:Arial;
+   font-size: 20px;
+}
